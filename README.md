@@ -47,4 +47,4 @@ Value Score = (Rating × Reviews) / Price
 
 ## Dashboard
 
-![Dashboard](dashboard/dashboard.png)
+![Dashboard](dashboard.png)
