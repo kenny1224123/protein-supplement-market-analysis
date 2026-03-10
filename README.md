@@ -47,4 +47,4 @@ Value Score = (Rating × Reviews) / Price
 
 ## Dashboard
 
-![Dashboard](dashboard.png)
+![Dashboard](protein-market-analysis/dashboard.png)
